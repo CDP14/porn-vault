@@ -1,6 +1,6 @@
 # Porn Vault
 
-Manage your ever-growing porn collection
+Manage your ever growing porn collection ( because it matters and it does)
 
 ![Testing](https://github.com/boi123212321/porn-vault/workflows/Push%20dev/badge.svg)
 ![Contributors](https://img.shields.io/github/contributors/boi123212321/porn-vault)
